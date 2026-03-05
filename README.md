@@ -23,7 +23,9 @@ Totalmente en CSS puro — sin JavaScript, sin frameworks
 ├── style.css
 └── resources/
     ├── pngwing.com (1).png   # Logo de Coca-Cola
-    └── pngwing.com.png       # Imagen de la lata
+    ├── pngwing.com.png       # Imagen de la lata
+    ├── VistaPrevia1.png      # Captura de vista previa
+    └── VistaPrevia2.png      # Captura de vista previa
 🛠️ Uso
 
 Clona o descarga el repositorio
