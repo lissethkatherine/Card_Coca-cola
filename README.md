@@ -30,10 +30,6 @@ Clona o descarga el repositorio
 Asegúrate de tener las imágenes en la carpeta resources/
 Abre index.html en tu navegador
 
-bashgit clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
-open index.html
-
 No requiere instalación ni dependencias. Funciona directamente en el navegador.
 
 ## 🎨 Animaciones CSS utilizadas
